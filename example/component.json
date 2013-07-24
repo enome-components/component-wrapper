@@ -1,0 +1,14 @@
+{
+  "name": "Component Middleware",
+  "repo": "enome-components/component-middleware",
+  "description": "Installs components on startup and serves them",
+  "version": "0.0.1",
+  "dependencies": {
+    "timoxley/font-awesome": "*",
+    "enome-components/angular-arrangeable-array": "*"
+  },
+  "paths": [ "local_components" ],
+  "local": [ "project_component" ],
+  "development": {},
+  "license": "MIT"
+}

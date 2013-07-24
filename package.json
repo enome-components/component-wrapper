@@ -1,0 +1,12 @@
+{
+  "name": "component-wrapper",
+  "version": "1.0.0",
+  "description": "Small module that spawns component.js as a child process",
+  "main": "index.js",
+  "author": "Geert Pasteels <geert.pasteels@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "component": "*",
+    "async": "~0.2.9"
+  }
+}

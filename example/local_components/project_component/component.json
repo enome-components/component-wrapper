@@ -1,0 +1,13 @@
+{
+  "name": "project_component",
+  "repo": "enome-components/project_component",
+  "description": "Just a local component for testing",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "project_component.css"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}
