@@ -15,6 +15,7 @@ var spawn_process = function (args, options) {
     p.stderr.pipe(process.stderr);
 
     p.on('close', next);
+    p.on('error', next);
 
   }, function (err) {
     if (err) {
